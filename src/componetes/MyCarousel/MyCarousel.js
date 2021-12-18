@@ -158,6 +158,7 @@ const MyCarousel = () => {
 
   const ObtenerAlAgua = () => {
     setMezclar(false);
+    setGanador(false);
     var nuevaPosicion = ganadorPosicion();
     if (!salioJugador(nuevaPosicion)) {
       setAgua(true);
