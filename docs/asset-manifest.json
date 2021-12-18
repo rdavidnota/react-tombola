@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-tombola/static/css/main.4c4131b9.css",
-    "main.js": "/react-tombola/static/js/main.92818dab.js",
+    "main.js": "/react-tombola/static/js/main.4dbb6ccd.js",
     "static/js/787.1cceef74.chunk.js": "/react-tombola/static/js/787.1cceef74.chunk.js",
     "static/media/fondo.png": "/react-tombola/static/media/fondo.c4c86a50ea549f17fb9b.png",
     "index.html": "/react-tombola/index.html",
     "main.4c4131b9.css.map": "/react-tombola/static/css/main.4c4131b9.css.map",
-    "main.92818dab.js.map": "/react-tombola/static/js/main.92818dab.js.map",
+    "main.4dbb6ccd.js.map": "/react-tombola/static/js/main.4dbb6ccd.js.map",
     "787.1cceef74.chunk.js.map": "/react-tombola/static/js/787.1cceef74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c4131b9.css",
-    "static/js/main.92818dab.js"
+    "static/js/main.4dbb6ccd.js"
   ]
 }

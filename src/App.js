@@ -11,8 +11,6 @@ function App() {
   );
 }
 const Titulo = styled.h3`
-  
-element.style {
   color: white;
   font-weight: bold;
   align-items: center;
