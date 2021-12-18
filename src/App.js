@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import styled from "styled-components";
+import "./App.css";
+import MyCarousel from "./componetes/MyCarousel/MyCarousel.js";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Contenedor className="App">
+      <MyCarousel></MyCarousel>
+    </Contenedor>
   );
 }
+
+const Contenedor = styled.div`
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 20%;
+  padding-left: 25%;
+  padding-right: 25%;
+  justify-content: "center";
+  align-items: "center";
+`;
 
 export default App;
