@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "nombre": "Jugador Nro. 1",
+        "area": "PRESIDENCIA",
+        "id": 0
+    },
+    {
+        "nombre": "Jugador Nro. 2",
+        "area": "DIRECTORIO NACIONAL",
+        "id": 1
+    },
+    {
+        "nombre": "Jugador Nro. 3",
+        "area": "CONTRATOS",
+        "id": 2
+    },
+    {
+        "nombre": "Jugador Nro. 4",
+        "area": "SEGURIDAD CORPORATIVA",
+        "id": 3
+    }
+]
